@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+data/
+logs/
+backups/
+config/settings.local.json
+app/static/*
+!app/static/.gitkeep
+frontend/node_modules/
+frontend/dist/
+.env
